@@ -6,9 +6,9 @@ tags:
 ---
 
 # Users page
-Written by Calum Ryan on 12 Feb 2024
-
-Period of work: 2023-24
+- Author(s) Calum Ryan
+- Last updated: 14 Feb 2024
+- Period of work: 2023-24
 
 ## What we did
 - Updated design of the Users list and individual edit pages from existing Bootstrap to GOV.UK Design System
@@ -17,6 +17,10 @@ Period of work: 2023-24
 
 ## Why we did it
 To help make managing and editing other users permissions easier and more accessible. The existing design had been in use for many years, but without a consistent interface that was very accessible.
+
+## Previous design
+![Bootstrap designed page with filters at the top laid out horizontally and table of users below](https://github.com/dxw/gds-publishing/assets/2226904/18aff832-4411-43bf-b546-1b4c914a9259)
+
 
 ## First design iteration
 The first design iteration prioritised as much as possible a like-for-like transition of the existing design replicated in the GOV.UK Design System. There wasn't a comparable component in the design system for filters to be laid out horizontally that worked well for this kind of page. We therefore took inspiration from the design applied to [GOV.UK Search](https://www.gov.uk/search/all?keywords=article&order=relevance) to filter results.
