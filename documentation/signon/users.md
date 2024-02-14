@@ -1,3 +1,10 @@
+---
+tags:
+  - table
+  - filter
+  - accessibility
+---
+
 # Users page
 Written by Calum Ryan on 12 Feb 2024
 
