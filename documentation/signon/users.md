@@ -14,7 +14,6 @@ Contents
 - [What we did](#what-we-did)
 - [Why we did it](#why-we-did-it)
 - [Previous design](#previous-design)
-- [Previous design](#previous-design)
 - [First design iteration](#first-design-iteration)
 - [Notes for handover](#notes-for-handover)
  
