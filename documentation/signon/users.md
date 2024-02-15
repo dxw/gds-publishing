@@ -38,6 +38,8 @@ The first design iteration prioritised as much as possible a like-for-like trans
 <img width="1008" alt="Screenshot from GOV.UK Search with example of filter on left handside taking up about 1/3 of the page and the remaining 2/3 of the page showing search results in a vertical layout" src="https://github.com/dxw/gds-publishing/assets/2226904/573df890-9e95-414d-990e-322e54358caf">
 
 ## Notes for handover
+Development work was in progress to change the strikethrough style on suspended users to instead use a tag component in the status column.
+
 User research with vision impaired users was conducted towards the end of our work with GDS of this period. This highlighted two usability issues:
 - On smaller viewports which uses an alternative table layout, there's too much space between the table headings and contents. Our proposed change includes aligning table content to the left subject to further user research and checking technical feasibility with developers
 - On larger viewports the large quantity of table rows means that it's harder to reference which column content relates to. Our proposed change includes using fixed position table headings subject to further user research and checking technical feasibility with developers
