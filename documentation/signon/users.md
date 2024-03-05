@@ -35,6 +35,7 @@ The first design iteration prioritised as much as possible a like-for-like trans
 ![Screenshot with Signon Users page using the Design System with a table on the right and left sidebar containing search and filters component including arrows to show/collapse different filters](https://github.com/dxw/gds-publishing/assets/2226904/58b2db04-c11f-45ac-89ef-e688f684fc2b)
 
 ### GOV.UK Search to filter results
+Following discussion with another interaction designer at GDS, Nikin Nagewadia, it was suggested we take a look at this example from GOV.UK. Our team of developers from [Go Free Range](https://gofreerange.com/) were able to find the code modules needed to import some of its features for the Users page.
 <img width="1008" alt="Screenshot from GOV.UK Search with example of filter on left handside taking up about 1/3 of the page and the remaining 2/3 of the page showing search results in a vertical layout" src="https://github.com/dxw/gds-publishing/assets/2226904/573df890-9e95-414d-990e-322e54358caf">
 
 ## Notes for handover
