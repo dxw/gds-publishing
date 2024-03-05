@@ -24,6 +24,7 @@ Contents
 ## Previous design
 
 ## First design iteration
-The first design iteration prioritised as much as possible a like-for-like transition of the existing design replicated in the GOV.UK Design System. There wasn't a comparable component in the design system for filters to be laid out horizontally that worked well for this kind of page. We therefore took inspiration from the design applied to [GOV.UK Search](https://www.gov.uk/search/all?keywords=article&order=relevance) to filter results.
+The first design iteration grouped together permissions by their respective app. The search filter is a common component in Publishing apps that filters the list of permissions by letters typed in without needing to reload the page.
 
+![List view of checkboxes with a search field above and collapsable sections with arrow](https://github.com/dxw/gds-publishing/assets/2226904/4eba83f3-80c7-476d-a4f7-7e17309fd440)
 
