@@ -9,13 +9,6 @@ tags:
 - Author(s) Calum Ryan
 - Last updated: 5 Mar 2024
 - Period of work: 2023-24
-
-Contents
-- [What we did](#what-we-did)
-- [Why we did it](#why-we-did-it)
-- [Previous design](#previous-design)
-- [First design iteration](#first-design-iteration)
-- [Notes for handover](#notes-for-handover)
  
 ## What we did
 - Updated design of the Users page from existing Bootstrap to GOV.UK Design System
