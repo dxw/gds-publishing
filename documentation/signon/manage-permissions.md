@@ -10,12 +10,6 @@ tags:
 - Author(s) Calum Ryan
 - Last updated: 5 Mar 2024
 - Period of work: 2023-24
-
-Contents
-- [What we did](#what-we-did)
-- [Why we did it](#why-we-did-it)
-- [Previous design](#previous-design)
-- [First design iteration](#first-design-iteration)
  
 ## What we did
 - Conducted user research looking in to which adminS, managing editors and other users set permissions across different apps.
