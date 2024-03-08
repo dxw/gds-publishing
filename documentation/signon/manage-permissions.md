@@ -6,7 +6,7 @@ tags:
   - accessibility
 ---
 
-# Users page
+# Manage permissions
 - Author(s) Calum Ryan
 - Last updated: 5 Mar 2024
 - Period of work: 2023-24
