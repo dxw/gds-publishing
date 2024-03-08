@@ -12,9 +12,9 @@ tags:
 - Period of work: 2023-24
  
 ## What we did
-- Conducted user research looking in to which adminS, managing editors and other users set permissions across different apps.
-- Changed the existing Bootstrap design to instead use standard components from the GOV.UK Design System that's less complex and more accessible.
-- Implemented the accordion component to group permissions by app for a tidyer layout.
+- Conducted user research looking in to which admins, managing editors and other users set permissions across different apps.
+- Changed the existing Bootstrap design to instead use standard components from the GOV.UK Design System that's better tailored to user needs and more accessible.
+- Implemented the accordion component to group permissions by app.
 - Included the filter component to help find and assign permissions more easily.
 
 ## Why we did it
