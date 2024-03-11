@@ -12,8 +12,11 @@ tags:
 - Period of work: 2023-24
  
 ## What we did
+We designed new ways to view and self-manage permissions aimed at users who often have to make changes for a lot of users. We conducted user research to see what were the main pain points of the existing process. This often involved lengthy support request trails to make simple requests for access and permissions or different apps.
 
-## Why we did it.
+We worked on some initial designs to overcome some of these challenges through a simple presentation of available apps a user has access, plus any they don't have. The summary list component offered a suitable layout to handle these along with a details component to show or hid additional information about requesting access to other apps.
+
+For consistency with the design system and better accessibility, the new design includes separate form pages for setting permissions and a confirmation page. User research confirmed this approach was a lot more intuitive and accessible.
 
 ## New designs
 ### First design iteration
