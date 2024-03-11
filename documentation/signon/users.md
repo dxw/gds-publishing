@@ -31,16 +31,15 @@ The first design iteration of the Users using the GOV.UK Design System.
 
 ![Screenshot with Signon Users page at 400% zoom with results listed vertically include label on left and content on the right](https://github.com/dxw/gds-publishing/assets/2226904/d9562366-f795-4031-b53c-8c490db632af)
 
-## Second design iteration
-Following changes to the design system to make it more accessibile and compliant with WCAG 2.2, we iterated the design to include tags for the status of users rather than a strike through. Following feedback from others in the Publishing team, it was agreed that this was a more consistent, accessible approach. On smaller viewport sizes, the design was improved to align all content to the left following feedback from users with vision impairment.
-
-![Screenshot with Signon Users page in a table layout using the coloured tag components of green for active users and grey for suspend users](https://github.com/dxw/gds-publishing/assets/2226904/5fd88aa5-62f5-4414-b52f-d2d995906ab9)
-
-
 ### GOV.UK Search to filter results
 Following discussion with another interaction designer at GDS, Nikin Nagewadia, it was suggested we take a look at this example from GOV.UK. Our team of developers from [Go Free Range](https://gofreerange.com/) were able to find the code modules needed to import some of its features for the Users page.
 
 <img width="1008" alt="Screenshot from GOV.UK Search with example of filter on left handside taking up about 1/3 of the page and the remaining 2/3 of the page showing search results in a vertical layout" src="https://github.com/dxw/gds-publishing/assets/2226904/573df890-9e95-414d-990e-322e54358caf">
+
+## Second design iteration
+Following changes to the design system to make it more accessibile and compliant with WCAG 2.2, we iterated the design to include tags for the status of users rather than a strike through. Following feedback from others in the Publishing team, it was agreed that this was a more consistent, accessible approach. On smaller viewport sizes, the design was improved to align all content to the left following feedback from users with vision impairment.
+
+![Screenshot with Signon Users page in a table layout using the coloured tag components of green for active users and grey for suspend users](https://github.com/dxw/gds-publishing/assets/2226904/5fd88aa5-62f5-4414-b52f-d2d995906ab9)
 
 ## Notes for handover
 Development work was in progress to change the strikethrough style on suspended users to instead use a tag component in the status column.
