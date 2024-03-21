@@ -39,7 +39,8 @@ Following discussion with another interaction designer at GDS, Nikin Nagewadia, 
 ## Second design iteration
 Following changes to the design system to make it more accessibile and compliant with WCAG 2.2, we iterated the design to include tags for the status of users rather than a strike through. Following feedback from others in the Publishing team, it was agreed that this was a more consistent, accessible approach. On smaller viewport sizes, the design was improved to align all content to the left following feedback from users with vision impairment.
 
-![Screenshot with Signon Users page in a table layout using the coloured tag components of green for active users and grey for suspend users](https://github.com/dxw/gds-publishing/assets/2226904/5fd88aa5-62f5-4414-b52f-d2d995906ab9)
+![Screenshot with Signon Users page in a table layout using the coloured tag components of green for active users and grey for suspend users](https://github.com/dxw/gds-publishing/assets/2226904/cd5dee18-e895-45c9-8efb-7c42177853d6)
+
 
 ## Notes for handover
 Development work was in progress to change the strikethrough style on suspended users to instead use a tag component in the status column.
