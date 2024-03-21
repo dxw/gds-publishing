@@ -29,7 +29,7 @@ The first design iteration of the Users using the GOV.UK Design System.
 
 ![Screenshot with Signon Users page using the Design System with a table on the right and left sidebar containing search and filters component including arrows to show/collapse different filters](https://github.com/dxw/gds-publishing/assets/2226904/58b2db04-c11f-45ac-89ef-e688f684fc2b)
 
-![Screenshot with Signon Users page at 400% zoom with results listed vertically include label on left and content on the right](https://github.com/dxw/gds-publishing/assets/2226904/d9562366-f795-4031-b53c-8c490db632af)
+![Screenshot with Signon Users page at 400% zoom with results listed vertically include label on left and content on the right](https://github.com/dxw/gds-publishing/assets/2226904/cd5dee18-e895-45c9-8efb-7c42177853d6)
 
 ### GOV.UK Search to filter results
 Following discussion with another interaction designer at GDS, Nikin Nagewadia, it was suggested we take a look at this example from GOV.UK. Our team of developers from [Go Free Range](https://gofreerange.com/) were able to find the code modules needed to import some of its features for the Users page.
@@ -38,8 +38,6 @@ Following discussion with another interaction designer at GDS, Nikin Nagewadia, 
 
 ## Second design iteration
 Following changes to the design system to make it more accessibile and compliant with WCAG 2.2, we iterated the design to include tags for the status of users rather than a strike through. Following feedback from others in the Publishing team, it was agreed that this was a more consistent, accessible approach. On smaller viewport sizes, the design was improved to align all content to the left following feedback from users with vision impairment.
-
-![Screenshot with Signon Users page in a table layout using the coloured tag components of green for active users and grey for suspend users](https://github.com/dxw/gds-publishing/assets/2226904/cd5dee18-e895-45c9-8efb-7c42177853d6)
 
 
 ## Notes for handover
